@@ -1,7 +1,17 @@
+:root {
+  --mainColor: #fe724c;
+  --textBlack: #000;
+  --textWhite: #fff;
+  --textGrey: grey;
+  --themeLight: #fff;
+  --themeNight: #000;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 * a {
   text-decoration: none;
